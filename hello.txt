@@ -1,1 +1,2 @@
 this is newf file
+second line
